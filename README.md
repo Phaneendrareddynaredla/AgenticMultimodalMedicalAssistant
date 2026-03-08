@@ -150,4 +150,4 @@ This approach highlights the role of AI as a **collaborative development tool ra
 Several challenges were encountered during the development process:
 
 1. **Inconsistent Caption Length**
-   Some captions contained very little descriptive information, making classification diffic
+   Some captions contained very little descriptive information, making classification difficult many times while working
